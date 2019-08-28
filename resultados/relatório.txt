@@ -1,0 +1,11 @@
+foto 11 (sem tensão)
+Valor medido: ~0,8 cm
+Valor calculado: 0,860869565 cm (1:1,076086956521739)
+
+foto 12 (fita tensionada em 0,5 cm)
+Valor medido: ~0,9 cm
+Valor calculado: 0,918518519 cm (1:1,1481481481481481)
+
+foto 13 (fita tensionada em 1,2 cm)
+Valor medido: ~1,0 cm
+Valor calculado: 1,0000 cm (1:1.25)
